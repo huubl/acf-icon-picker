@@ -1,0 +1,11 @@
+{
+  "name": "huubl/acf-icon-picker",
+  "description": "Add ACF field for selecting SVG icons.",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "houke/acf-icon-picker",
+    }
+  ],
+  "type": "wordpress-plugin"
+}
